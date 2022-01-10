@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     
-    
+    //this is 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -25,7 +25,7 @@
 <body>
     
   <?php include "header.php"; ?>
-
+// Aida test
   <!-- ***** Main Banner Area Start ***** -->
   <section class="section main-banner" id="top" data-section="section1">
     <video autoplay muted loop id="bg-video">
